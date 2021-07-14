@@ -1,4 +1,7 @@
-install xgboost first
+First, install xgboost first via
+```
+pip install xgboost
+```
 
 To run BOW.ipynb
 - First, update data_folder_path to match path to two csv files
